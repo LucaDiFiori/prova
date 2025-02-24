@@ -1,1 +1,1 @@
-il programma stampa "ciao"
+il programma stampa "bella"

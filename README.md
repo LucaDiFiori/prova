@@ -1,1 +1,1 @@
-prova_2
+il programma stampa "ciao"

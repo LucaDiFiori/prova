@@ -1,1 +1,1 @@
-il programma stampa "bella".
+il programma stampa "bella"
